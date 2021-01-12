@@ -1,4 +1,4 @@
-# 2020 Computational Linguistics Project: She is Petite . . . He is Lanky?Gender Stereotypes in Adjective Embeddings: Debias and Evaluation
+# 2020 CL Project: She is Petite . . . He is Lanky?Gender Stereotypes in Adjective Embeddings: Debias and Evaluation
 
 The projecy was completed by Tianai Dong, Allison Keith and Anna Tramarin
 
