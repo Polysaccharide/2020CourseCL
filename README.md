@@ -11,3 +11,6 @@ Debiasing Word Embedding"** on adjective embeddings. The results are evaluated b
 
 ## Download embeddings
 * Glove, Word2vector 
+
+## Demo 
+* Codes for subset of Word2vector  
